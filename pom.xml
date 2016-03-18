@@ -16,5 +16,15 @@
 			<artifactId>hibernate-validator</artifactId>
 			<version>4.2.0.Final</version>
 		</dependency>
+		<dependency>
+		  <groupId>org.apache.zookeeper</groupId>
+		  <artifactId>zookeeper</artifactId>
+		  <version>3.4.6</version>
+		</dependency>  
+        <dependency>  
+            <groupId>org.apache.helix</groupId>  
+            <artifactId>helix-core</artifactId>  
+            <version>0.6.4</version>  
+        </dependency>  
 	</dependencies>
 </project>
